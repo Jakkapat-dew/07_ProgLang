@@ -1,6 +1,3 @@
-Basic Python
-==
-
 ## Parameter definition ##
 - Using Python naming conventions (from PEP8 - Key style guide)
 #### ***snake_case*** for parameters name ####
