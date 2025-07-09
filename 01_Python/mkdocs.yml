@@ -1,4 +1,5 @@
 site_name: Programming Guide
+site_url: https://jakkapat-dew.github.io/07_ProgLang/
 theme:
   name: material
   features:
